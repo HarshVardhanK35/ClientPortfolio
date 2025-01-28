@@ -7,9 +7,9 @@ const Experience = () => {
 				<h2 className="text-3xl font-bold mb-6 text-center">Experience</h2>
 				<ul className="space-y-8">
 					<li>
-						<h3 className="font-semibold text-xl">XYZ, Remote</h3>
+						<h3 className="font-semibold text-xl">RBC, Remote</h3>
 						<p className="text-gray-700 mb-2">
-							<strong>Role:</strong> Full Stack Developer (Dec 2023 - Present)
+							<strong>Role:</strong> Software Engineer (Dec 2023 - Present)
 						</p>
 						<p>
 							Contributed to the Digital Banking Experience Enhancement
@@ -18,9 +18,9 @@ const Experience = () => {
 						</p>
 					</li>
 					<li>
-						<h3 className="font-semibold text-xl">ABC, USA</h3>
+						<h3 className="font-semibold text-xl">Nexus IT Inc., USA</h3>
 						<p className="text-gray-700 mb-2">
-							<strong>Role:</strong> Full Stack Developer (Dec 2021 - Nov 2023)
+							<strong>Role:</strong> Software Engineer (Dec 2021 - Nov 2023)
 						</p>
 						<p>
 							Developed a Customer Support Automation System using AI/ML to
@@ -30,7 +30,7 @@ const Experience = () => {
 					<li>
 						<h3 className="font-semibold text-xl">Adidas, Portland</h3>
 						<p className="text-gray-700 mb-2">
-							<strong>Role:</strong> Full Stack Developer (Jan 2020 - Nov 2021)
+							<strong>Role:</strong> Software Engineer (Jan 2020 - Nov 2021)
 						</p>
 						<p>
             Led the development of an Inventory Management System for Adidas, designed to optimize warehouse operations, track product availability, and improve supply chain efficiency.
@@ -39,8 +39,7 @@ const Experience = () => {
 					<li>
 						<h3 className="font-semibold text-xl">Aricent, India</h3>
 						<p className="text-gray-700 mb-2">
-							<strong>Role:</strong>Junior Full Stack Developer (July 2017 - Dec
-							2019)
+							<strong>Role:</strong> Software Engineer (July 2017 - Dec 2019)
 						</p>
 						<p>
 							Developed and maintained an Employee Management System (EMS)
